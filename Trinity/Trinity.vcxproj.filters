@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="geometry">
+      <UniqueIdentifier>{5596aebc-526c-420e-86b4-1541ae27cc6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="item">
+      <UniqueIdentifier>{1667375e-487e-427b-99e6-493e536d655a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="logic">
+      <UniqueIdentifier>{53646a5f-e4a8-4c92-b0e6-bbb2e4a92d59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui">
+      <UniqueIdentifier>{a838f311-2fd1-4af3-b76e-ab2fd83de33b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="util">
+      <UniqueIdentifier>{e81476fc-59ae-4570-9e1f-edca1c8b59f4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="geometry.cpp">
+      <Filter>geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="mesh.cpp">
+      <Filter>geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="model.cpp">
+      <Filter>geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
+    <ClCompile Include="overlay2d.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
+    <ClCompile Include="text2d.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="fileloader.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="tool.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="simulator.cpp">
+      <Filter>logic</Filter>
+    </ClCompile>
+    <ClCompile Include="trailer.cpp">
+      <Filter>geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="planet.cpp">
+      <Filter>logic</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>ui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="geometry.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="mesh.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="model.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="light.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="overlay2d.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="text2d.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="mainwindow.h">
+      <Filter>ui</Filter>
+    </ClInclude>
+    <ClInclude Include="fileloader.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="tool.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="simulator.h">
+      <Filter>logic</Filter>
+    </ClInclude>
+    <ClInclude Include="trailer.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="planet.h">
+      <Filter>logic</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>ui</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
