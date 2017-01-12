@@ -23,6 +23,5 @@ Qt + Ork(a lightweight opengl wrapper)
 ![cover](https://github.com/Code-Guy/Trinity/blob/master/Trinity/snapshots/psb%20(1).png?raw=true)
 ![cover](https://github.com/Code-Guy/Trinity/blob/master/Trinity/snapshots/psb%20(4).png?raw=true)
 ![cover](https://github.com/Code-Guy/Trinity/blob/master/Trinity/snapshots/psb%20(3).png?raw=true)
-![cover](https://github.com/Code-Guy/Trinity/blob/master/Trinity/snapshots/psb%20.png?raw=true)
 
 
