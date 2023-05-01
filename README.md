@@ -12,9 +12,9 @@ I was rapt in universe and physics when I finished reading the great science fic
  -  Support file-based planet kinematics parameter configuration
 ```
     // position velocity mass size
-	p 25 0 25 -15 0 8.6603 10000 6
-	p -25 0 25 -8.6603 0 -15 10000 6
-	p 0 0 -18.3 17.321 0 0 10000 6
+    p 25 0 25 -15 0 8.6603 10000 6
+    p -25 0 25 -8.6603 0 -15 10000 6
+    p 0 0 -18.3 17.321 0 0 10000 6
 ```
 ### Framework
 Qt + Ork(a lightweight opengl wrapper)
